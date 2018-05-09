@@ -1,4 +1,4 @@
-class Summiere {
+class Sum {
 	public static void main(String[] args)
 	{
 		if (args.length != 1) {
